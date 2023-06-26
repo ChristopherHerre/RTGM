@@ -1,5 +1,38 @@
 .App {
   text-align: center;
+  margin:0 auto;
+  padding:0;
+}
+
+textarea{
+  resize: none;
+}
+
+.row {
+  margin:5px;
+}
+
+.padding {
+  padding:50px;
+}
+
+.padding2 {
+  padding:20px;
+}
+
+.card {
+  min-height:60px;
+  border-radius:10px;
+}
+
+div {
+  padding:1px;
+}
+
+body {
+  background:#000000;
+  margin:0;
+  padding:0;
 }
 
 .App-logo {
